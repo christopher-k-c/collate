@@ -53,7 +53,7 @@ We need to decide which scraping method/technology is most efficient. Additional
 
 We will be using figma.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F4WForUR90lj8ljhgDeXs5n%2FCollate-Application%3Ft%3DmJQueTJA4lgDmytS-1" allowfullscreen></iframe>
+<a href="https://www.figma.com/file/4WForUR90lj8ljhgDeXs5n/Collate-Application?t=mJQueTJA4lgDmytS-1"> Check out our designs </a>
 
 ## Database layout 
 
