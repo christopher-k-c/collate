@@ -9,7 +9,7 @@
 
 * As a user, I want a filter and sort function on the grid page, so that I can specify my search results.
 
-* **Filter sort function should include price, genre, label, artist, and record store, as well as stock levels such as Low stock, Sold out, Pre-order, and In stock. Sort by cheapest delivery, cheapest retailer, release date, etc**
+* * **Filter sort function should include price, genre, label, artist, and record store, as well as stock levels such as Low stock, Sold out, Pre-order, and In stock. Sort by cheapest delivery, cheapest retailer, release date, etc**
 
 * As a user, I want a landing page that displays various site options and listings, so that I can be made aware of new releases, blog posts and more.
 
