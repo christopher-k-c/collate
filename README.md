@@ -1,6 +1,6 @@
 # Collate - Record Aggregation Application
 
-### Aim: Our app aggregates records from multiple stores, allowing users to view, filter, and add them to their cart for efficient purchase. Users can find the cheapest option, including price and shipping, from a handful of independent records.
+### Our app aggregates records from multiple stores, allowing users to view, filter, and add them to their cart for efficient purchase. Users can find the cheapest option, including price and shipping, from a handful of independent records.
 
 ## Tech Stack
 
