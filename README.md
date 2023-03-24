@@ -28,6 +28,8 @@
 
 ## Tech Stack
 
+We need to decide which scraping method/technology is most efficient. Additionally, the MERN stack choice may change, and we might opt for DJANGO and PostGreSQL. We may also incorporate other third-party APIs, and we will document them accordingly.
+
 *Application Stack:*
 
  - [x] MongoDB
@@ -44,13 +46,21 @@
 
 *Third party APIs:*
 
-- [ ] Discogs 
+- [ ] Discogs API
+- [ ] Photoshop Api
 
 ## Wire Framing
 
+We will be using figma.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F4WForUR90lj8ljhgDeXs5n%2FCollate-Application%3Ft%3DmJQueTJA4lgDmytS-1" allowfullscreen></iframe>
+
 ## Database layout 
+
+MongoDB Embedded or Referenced relationship debate/Databse Relationship Diagram coming soon. 
 
 ## Work Flow 
 
+Trello Board listing MVP/User Stories and divison of labour coming soon.
 
 
