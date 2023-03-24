@@ -38,13 +38,13 @@
  
 *Data Gathering stack:*
 
-- [] Beautiful Soup
-- [] Scrape
-- [] Puppeteer
+- [ ] Beautiful Soup
+- [ ] Scrape
+- [ ] Puppeteer
 
 *Third party APIs:*
 
-- [] Discogs 
+- [ ] Discogs 
 
 ## Wire Framing
 
