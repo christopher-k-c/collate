@@ -24,3 +24,33 @@
 * As a user, I want a profile settings page, so that I can view, amend and delete my profile or account with the site. 
 
 * As a user, I want a profile page that displays my likes and comments, possibly my purchases, so that I can keep track of such things.
+
+
+## Tech Stack
+
+*Application Stack:*
+
+ - [x] MongoDB
+ - [x] Express
+ - [x] React (Vite implementation?)
+ - [x] Node
+ - [x] Tailwind
+ 
+*Data Gathering stack:*
+
+- [] Beautiful Soup
+- [] Scrape
+- [] Puppeteer
+
+*Third party APIs:*
+
+- [] Discogs 
+
+## Wire Framing
+
+## Database layout 
+
+## Work Flow 
+
+
+
