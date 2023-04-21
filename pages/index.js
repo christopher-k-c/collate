@@ -1,7 +1,7 @@
 import Footer from "@/components/reusable/footer/Footer"
-import DesktopNav from "@/components/reusable/header/Nav/DesktopNav"
-import {spacing, layouts} from './tailwindStyles';
-import { useState, useEffect } from "react";
+import NavigationBar from "@/components/reusable/header/Nav/NavigationBar"
+import {layouts} from './tailwindStyles';
+
 
 
 export default function Home() {
@@ -13,7 +13,8 @@ export default function Home() {
 
       <main className={`${layouts.centerContainer} ${layouts.flexCenter} flex-col`}>
         
-        <DesktopNav></DesktopNav>
+        {/* <DesktopNav></DesktopNav> */}
+        <NavigationBar></NavigationBar>
 
         <Footer chris={{name:"Chris", age: 32, hobby: "cycling"}}></Footer>
       </main>
