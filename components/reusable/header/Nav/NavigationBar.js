@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { spacing } from '@/pages/tailwindStyles'
 import List from './NavList'
 
-const D = () => {
+const NavigationBar = () => {
     const navContents = ["Records", "Artists", "Store", "Account"]
 
     const [menu, setMenu] = useState(false)
@@ -27,9 +27,10 @@ const D = () => {
 
                 {/* Burger Menu Icon */}
                 <div className='flex md:hidden flex-col z-10' onClick={handleClick}>
-                    <div className='w-[40px] h-[3px] bg-white my-1 rounded-lg'></div>
-                    <div className='w-[40px] h-[3px] bg-white my-1 rounded-lg'></div>
-                    <div className='w-[40px] h-[3px] bg-white my-1 rounded-lg'></div>
+                    {/* _ indicates we don't need the current element of the array only the index */}
+                    {Array.from({ length: 3}).map((_, index) => (
+                        <div key={index} className='w-[40px] h-[3px] bg-white my-1 rounded-lg'></div>
+                    ))}
                 </div>
             
             </div>
@@ -42,4 +43,4 @@ const D = () => {
   )
 }
 
-export default D
+export default NavigationBar
